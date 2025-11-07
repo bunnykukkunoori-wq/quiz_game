@@ -49,6 +49,3 @@ Bunny Kukkunoori
 DevOps & Python Learner 💻
 GitHub: bunnykukkunoori-wq
 
-
-# quizz_game
-# quizz_game
