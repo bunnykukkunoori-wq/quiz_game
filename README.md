@@ -96,6 +96,16 @@ nano questions.py
 
 ---
 
+# Benefits of This Structure
+
+Clean organization — separates code, docs, and data
+
+Reusable — easy to expand with new features
+
+Collaborative — clear structure for multiple contributors
+
+GitHub-friendly — looks professional and readable
+
 # Requirements
 
 Python 3.6 or above
