@@ -206,9 +206,9 @@ Using functions for modular code
 
 Building simple games in the terminal
 
-Author
+# Author
 
-# Author: Bunny Kukkunoori
+Author: Bunny Kukkunoori
 
 Email: bunnykukkunoori@gmail.com
 
